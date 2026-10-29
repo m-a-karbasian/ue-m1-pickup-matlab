@@ -16,7 +16,7 @@ end
 % TOOL NAME: B0 Platform Packaging & Geometrical Integrity Analyzer
 % PURPOSE: Automated calculation of Hardpoints, Tire Deflection, and GVW
 % VERSION: 1.0 (Development Phase)
-% AUTHOR: ???? ????? ????? (Pickup Design Team)
+% AUTHOR: گروه طراحی پیکاپ (Pickup Design Team)
 % =========================================================================
 
 

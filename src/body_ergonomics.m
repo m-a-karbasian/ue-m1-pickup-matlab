@@ -16,7 +16,7 @@ end
 % TOOL NAME: B0 Platform BIW, Ergonomics & Geometric Packaging Calculator
 % PURPOSE: Automated calculation of Windshield, Headroom, BIW Mass & Cargo Vol
 % VERSION: 1.0 (Development Phase)
-% AUTHOR: ???? ????? ????? (Pickup Design Team)
+% AUTHOR: گروه طراحی پیکاپ (Pickup Design Team)
 % =========================================================================
 
 

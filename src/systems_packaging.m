@@ -16,7 +16,7 @@ end
 % TOOL NAME: B0 Platform Systems Engineering Data Hand-off Calculator
 % PURPOSE: Automated calculation of Frontal Area, Cooling Space, Turning Radius & HVAC Volume
 % VERSION: 1.0 (Development Phase)
-% AUTHOR: ???? ????? ????? (Pickup Design Team)
+% AUTHOR: گروه طراحی پیکاپ (Pickup Design Team)
 % =========================================================================
 
 

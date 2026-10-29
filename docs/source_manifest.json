@@ -4,7 +4,7 @@
     "module": "packaging_geometry",
     "sha256": "65d09106923ce2bb2a426075110be59076c9ff7c739985f35a7da6e761914daa",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ????? ???? ?????\\Matlab\\B0_Pkg_Clearance_Mass_Calc\\B0_Pkg_Calc_1.m",
+    "original_relative_path": "ارائه نهایی گروه طراحی بدنه پیکاپ\\Matlab\\B0_Pkg_Clearance_Mass_Calc\\B0_Pkg_Calc_1.m",
     "inputs": [
       "WB",
       "L_f0",
@@ -27,7 +27,7 @@
     "module": "mass_distribution",
     "sha256": "3181d686c08d277ce328c262c55cd4ddcda7f69755ab27409ac1d4fd8eb332bf",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ????? ???? ?????\\Matlab\\B0_Mass_Dist_Dynamics_Calc\\B0_Pkg_Calc_2.m",
+    "original_relative_path": "ارائه نهایی گروه طراحی بدنه پیکاپ\\Matlab\\B0_Mass_Dist_Dynamics_Calc\\B0_Pkg_Calc_2.m",
     "inputs": [
       "WB",
       "TW",
@@ -46,7 +46,7 @@
     "module": "powertrain_braking",
     "sha256": "8331524649623854291e88f716d0ff44bdff2e1a8fe1e711987ece3bf4ebde6a",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ????? ???? ?????\\Matlab\\B0_PT_Brakes_Handoff_Calc\\B0_Pkg_Calc_3.m",
+    "original_relative_path": "ارائه نهایی گروه طراحی بدنه پیکاپ\\Matlab\\B0_PT_Brakes_Handoff_Calc\\B0_Pkg_Calc_3.m",
     "inputs": [
       "GVW",
       "Incline_deg",
@@ -63,7 +63,7 @@
     "module": "systems_packaging",
     "sha256": "5c87f0b8dde2af83705fe21b0f7ddfd092b89d7e19a53d089b6473da449ebbf0",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ????? ???? ?????\\Matlab\\B0_Systems_Handoff_Calc\\B0_Pkg_Calc_4.m",
+    "original_relative_path": "ارائه نهایی گروه طراحی بدنه پیکاپ\\Matlab\\B0_Systems_Handoff_Calc\\B0_Pkg_Calc_4.m",
     "inputs": [
       "W_total",
       "H_total",
@@ -85,7 +85,7 @@
     "module": "body_ergonomics",
     "sha256": "12e3e6d480791d6198a8653204a8f4510df41da15eb62563ffd37265b3562eec",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ????? ???? ?????\\Matlab\\B0_BIW_Ergo_Cargo_Calc\\B0_Pkg_Calc_5.m",
+    "original_relative_path": "ارائه نهایی گروه طراحی بدنه پیکاپ\\Matlab\\B0_BIW_Ergo_Cargo_Calc\\B0_Pkg_Calc_5.m",
     "inputs": [
       "H_windshield_v",
       "Angle_windshield",
@@ -110,7 +110,7 @@
     "module": "chassis_bending",
     "sha256": "1efdcbda19eb0bbe6f353f51673a6651e1d8b353ae32ec35cec3e4b2c492ab52",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ???? ?????\\Matlab\\B0_Chassis_Validation\\Faze1.m",
+    "original_relative_path": "ارائه نهایی گروه شاسی پیکاپ\\Matlab\\B0_Chassis_Validation\\Faze1.m",
     "inputs": [
       "Rf",
       "X_cg",
@@ -128,7 +128,7 @@
     "module": "suspension_brake_allocation",
     "sha256": "9d15209c91ac23e2fe2b406809aa895d727ffd3b5fb952b392d9c7fbe9400a45",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ???? ?????\\Matlab\\B0_Dynamic_Calibration\\Faze2.m",
+    "original_relative_path": "ارائه نهایی گروه شاسی پیکاپ\\Matlab\\B0_Dynamic_Calibration\\Faze2.m",
     "inputs": [
       "W_rear_empty",
       "W_rear_full",
@@ -146,7 +146,7 @@
     "module": "aero_packaging",
     "sha256": "429c9e00afff028359d0effcf529dc93a4096bbb80522c07df302fb1e54c18ac",
     "identical_copies": 2,
-    "original_relative_path": "????? ????? ???? ???? ?????\\Matlab\\B0_Aero_Ergo_Validation\\Faze3.m",
+    "original_relative_path": "ارائه نهایی گروه شاسی پیکاپ\\Matlab\\B0_Aero_Ergo_Validation\\Faze3.m",
     "inputs": [
       "A_front",
       "Cd",

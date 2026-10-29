@@ -16,7 +16,7 @@ end
 % TOOL NAME: B0 Platform Powertrain & Braking Data Hand-off Calculator
 % PURPOSE: Automated calculation of Tractive Effort, Margin, and Total Brake Force
 % VERSION: 1.0 (Development Phase)
-% AUTHOR: ???? ????? ????? (Pickup Design Team)
+% AUTHOR: گروه طراحی پیکاپ (Pickup Design Team)
 % =========================================================================
 
 
